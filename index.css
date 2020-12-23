@@ -106,7 +106,7 @@
 body {
     color:white;
     font-family:Montserrat;
-   
+ 
 }
 
 /* nav bar */
@@ -143,9 +143,12 @@ body {
 }
 
 .info {
-    
+
     font-size: 1.3rem;
     margin:5rem 3rem;
-    margin-left: 90rem;
+    margin-left: 70rem;
     max-width: 25%;
+}
+.info p{
+  color: white !important;
 }
